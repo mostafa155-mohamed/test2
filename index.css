@@ -31,7 +31,6 @@ button{
 }
 .text{
     text-align: center;
-    font-size: larger;
 }
 .text p{
     font-size: 18px;
@@ -201,7 +200,3 @@ footer{
     margin-top: 400px;;
     color:#bbb;
 }
-#font{
-    font-size: large;
-}
-
